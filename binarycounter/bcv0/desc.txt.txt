@@ -1,0 +1,2 @@
+A simple binary counter that increments on button press
+Goal: Familiarize myself with the Arduino IDE and functionality of Arduino Nano.
