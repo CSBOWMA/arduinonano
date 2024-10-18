@@ -1,0 +1,3 @@
+A simple binary counter that is capable of adding by 1, subtracting by 1, doubling, and halving a number. Uses a shift register to output the number to LEDS as you need a total of 12 pins, 4 for buttons and 8 for LEDS, which the nano does not have.
+
+Goal: Learn the usage of shift register and tradeoffs, i.e. Trading clock cycles for more output pins
